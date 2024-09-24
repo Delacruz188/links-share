@@ -1,0 +1,1 @@
+https://diego.com.es/principales-tipos-de-joins-en-sql#:~:text=INNER%20JOIN%3A%20Devuelve%20todas%20las,la%20tabla%20de%20la%20derecha
