@@ -1,2 +1,5 @@
-https://diego.com.es/principales-tipos-de-joins-en-sql#:~:text=INNER%20JOIN%3A%20Devuelve%20todas%20las,la%20tabla%20de%20la%20derecha
-https://www.figma.com/design/wQeQbQF9N1hZ3QmMKkj3XC/100-Best-Font-Combinations-(Community)?node-id=2-2&node-type=canvas&t=igF7YQAGp6fdVE3w-0
+1- https://diego.com.es/principales-tipos-de-joins-en-sql#:~:text=INNER%20JOIN%3A%20Devuelve%20todas%20las,la%20tabla%20de%20la%20derecha
+
+2- https://www.figma.com/design/wQeQbQF9N1hZ3QmMKkj3XC/100-Best-Font-Combinations-(Community)?node-id=2-2&node-type=canvas&t=igF7YQAGp6fdVE3w-0
+
+3- https://flowbite.com/docs/getting-started/react/
