@@ -5,3 +5,5 @@
 3- https://flowbite.com/docs/getting-started/react/
 
 4- https://www.realtimecolors.com/?colors=050606-f6f9fa-103c54-79c3ed-4fbefc&fonts=Inter-Inter
+
+5- https://www.svgrepo.com/collection/chunk-16px-thick-interface-icons/
