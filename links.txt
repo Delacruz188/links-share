@@ -3,3 +3,5 @@
 2- https://www.figma.com/design/wQeQbQF9N1hZ3QmMKkj3XC/100-Best-Font-Combinations-(Community)?node-id=2-2&node-type=canvas&t=igF7YQAGp6fdVE3w-0
 
 3- https://flowbite.com/docs/getting-started/react/
+
+4- https://www.realtimecolors.com/?colors=050606-f6f9fa-103c54-79c3ed-4fbefc&fonts=Inter-Inter
